@@ -1,0 +1,7 @@
+C:\Users\Nivaldo\Desktop\Faculdade\1° SEMESTRE\TP_ALGORITMO\obj\Debug\TP_ALGORITMO.csprojAssemblyReference.cache
+C:\Users\Nivaldo\Desktop\Faculdade\1° SEMESTRE\TP_ALGORITMO\obj\Debug\TP_ALGORITMO.csproj.CoreCompileInputs.cache
+C:\Users\Nivaldo\Desktop\Faculdade\1° SEMESTRE\TP_ALGORITMO\bin\Debug\TP_ALGORITMO.exe.config
+C:\Users\Nivaldo\Desktop\Faculdade\1° SEMESTRE\TP_ALGORITMO\bin\Debug\TP_ALGORITMO.exe
+C:\Users\Nivaldo\Desktop\Faculdade\1° SEMESTRE\TP_ALGORITMO\bin\Debug\TP_ALGORITMO.pdb
+C:\Users\Nivaldo\Desktop\Faculdade\1° SEMESTRE\TP_ALGORITMO\obj\Debug\TP_ALGORITMO.exe
+C:\Users\Nivaldo\Desktop\Faculdade\1° SEMESTRE\TP_ALGORITMO\obj\Debug\TP_ALGORITMO.pdb
